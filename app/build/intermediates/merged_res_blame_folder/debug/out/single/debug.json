@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_row_listlabel1.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\row_listlabel1.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_food_donations.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_food_donations.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_dhi_0.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_dhi_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_bg_green_300_radius_10.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_bg_green_300_radius_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mensaje_dinero.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_mensaje_dinero.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_articulo.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\fragment_articulo.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_13.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_13.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_image2.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_image2.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_bg_black_900_07_radius_10.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_bg_black_900_07_radius_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cargando.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_cargando.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_row_new_receta.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\row_new_receta.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_men_principal.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_men_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_bg_bluegray_800.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_bg_bluegray_800.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_21.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_21.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_recetas_intento.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_recetas_intento.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_embutidos.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_embutidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_formulario_donaci_n.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_formulario_donaci_n.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_ellipse5.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_ellipse5.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_donaciones.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_donaciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_border_black_900_5b.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_border_black_900_5b.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_row_listrectanglefourteen.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\row_listrectanglefourteen.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_logo_gdl_bamx_ch.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable-v24\\logo_gdl_bamx_ch.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_12.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_12.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_19.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_19.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_volume.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_22.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_22.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_recetas_filtradas.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_recetas_filtradas.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_5.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_5.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_arrowleft.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_arrowleft.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_image10.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_image10.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_arrowleft_white_a700.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_arrowleft_white_a700.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\font_robotoromanbold.ttf.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\font\\robotoromanbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_bg_white_a700.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_bg_white_a700.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dinero.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_dinero.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_selecci_n_alimentos.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_selecci_n_alimentos.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_bg_bluegray_801.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_bg_bluegray_801.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_23.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_23.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_15.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_15.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_formulario_comun.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_formulario_comun.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_stripe.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_stripe.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_bg_green_301_radius_10.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_bg_green_301_radius_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_4.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_4.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_image3.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_image3.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_row_voluntariado.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\row_voluntariado.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_search_white_a700.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_search_white_a700.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_20.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_20.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_ellipse3.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_ellipse3.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_image9.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_image9.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_18.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_18.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\font_roboto.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_sysbar.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_sysbar.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dinero_formulario.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_dinero_formulario.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_7.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_7.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_home.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_ellipse6.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_ellipse6.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_bg_bluegray_800_radius_139_5.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_bg_bluegray_800_radius_139_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_1.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_1.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_image6.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_image6.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mensaje_donaci_n.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_mensaje_donaci_n.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_canasta_basica.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_canasta_basica.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\font_robotoromanregular.ttf.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\font\\robotoromanregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_image21.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_image21.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_8.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_8.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_row_listlabel.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\row_listlabel.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_image51.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_image51.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_bg_white_a700_border_bluegray_101_radius_4.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_bg_white_a700_border_bluegray_101_radius_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_17.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_17.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_layer_list_bg_white_a700_radius_8.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\layer_list_bg_white_a700_radius_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_iniciozero.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_iniciozero.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_ver_receta.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\fragment_ver_receta.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_search.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ver_recetas.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_ver_recetas.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_refresh.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_10.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_10.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_2.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_2.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_qhacemos.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_qhacemos.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_25.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_25.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_progress_dialog.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\layout_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_9.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_9.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_image7.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_image7.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_not_found.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\image_not_found.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_logo_gdl_bamx.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable-v24\\logo_gdl_bamx.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_ellipse1.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_ellipse1.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_frutas_yverduras.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_frutas_yverduras.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_16.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_16.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_resumen_higiene_ylimpieza.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_resumen_higiene_ylimpieza.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_arrowdown.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_arrowdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_label.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\font_robotoregular.ttf.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\font\\robotoregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_inicioone.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_inicioone.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_higiene_y_limpieza.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_higiene_y_limpieza.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_resumen_food_donations.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_resumen_food_donations.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_3.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_3.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_search_view_bg.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\search_view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_6.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_6.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\font_robotomedium.ttf.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\font\\robotomedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_alimentos.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_alimentos.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_redapplepngc.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_redapplepngc.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\raw_lottie_loading.json.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\raw\\lottie_loading.json"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_abarrotes.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_abarrotes.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_voluntariado.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_voluntariado.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_ellipse2.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable-v24\\img_ellipse2.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_14.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_14.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_inicio.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_mask_black_900.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_mask_black_900.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_x_button.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable-v24\\x_button.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_plus.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_bg_gray_900_14.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_bg_gray_900_14.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_64x62.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_64x62.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_224x300.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_224x300.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_image31.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_image31.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_bg_white_a701.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_bg_white_a701.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_24.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_24.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_bg_black_900_51.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\rectangle_bg_black_900_51.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\navigation_navigation.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\navigation\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_formulario_otro_alimento.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\layout\\activity_formulario_otro_alimento.xml"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_bamxlogo2_11.png.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_bamxlogo2_11.png"
+    },
+    {
+        "merged": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_mask.xml.flat",
+        "source": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\src\\main\\res\\drawable\\img_mask.xml"
+    }
+]
