@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\x360\\AndroidStudioProjects\\AppBAMXV2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\x360\\.gradle\\caches\\transforms-3\\ca769d73611faf08b374efa9cbc0fb90\\transformed\\appcompat-1.5.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endLines": "7",
+                        "endColumns": "13",
+                        "endOffsets": "384"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\x360\\.gradle\\caches\\transforms-3\\5fbc9feb0a1e8231ab5d75f99e751e19\\transformed\\jetified-payments-core-20.15.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+com/application/app/databinding/ActivityIniciozeroBindingImpl.java
+ com.application.app.databinding.ActivityIniciozeroBindingImpl
+com/application/app/databinding/ActivityMainBinding.java
+ com.application.app.databinding.ActivityMainBinding
+com/application/app/databinding/ActivityDonacionesBindingImpl.java
+ com.application.app.databinding.ActivityDonacionesBindingImpl
+com/application/app/databinding/ActivitySelecciNAlimentosBinding.java
+ com.application.app.databinding.ActivitySelecciNAlimentosBinding
+com/application/app/databinding/ActivityCargandoBindingImpl.java
+ com.application.app.databinding.ActivityCargandoBindingImpl
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/application/app/databinding/RowListlabel1Binding.java
+ com.application.app.databinding.RowListlabel1Binding
+com/application/app/databinding/ActivityDineroFormularioBinding.java
+ com.application.app.databinding.ActivityDineroFormularioBinding
+com/application/app/databinding/ActivityQhacemosBindingImpl.java
+ com.application.app.databinding.ActivityQhacemosBindingImpl
+com/application/app/databinding/RowListlabelBinding.java
+ com.application.app.databinding.RowListlabelBinding
+com/application/app/databinding/ActivityDineroBindingImpl.java
+ com.application.app.databinding.ActivityDineroBindingImpl
+ com.application.app.databinding.ActivityDineroBindingImpl$1
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/application/app/databinding/ActivityResumenFoodDonationsBinding.java
+ com.application.app.databinding.ActivityResumenFoodDonationsBinding
+com/application/app/databinding/ActivityVerRecetasBindingImpl.java
+ com.application.app.databinding.ActivityVerRecetasBindingImpl
+com/application/app/databinding/ActivityRecetasIntentoBinding.java
+ com.application.app.databinding.ActivityRecetasIntentoBinding
+com/application/app/BR.java
+ com.application.app.BR
+com/application/app/databinding/SpinnerItemBinding.java
+ com.application.app.databinding.SpinnerItemBinding
+com/application/app/databinding/ActivityResumenHigieneYlimpiezaBinding.java
+ com.application.app.databinding.ActivityResumenHigieneYlimpiezaBinding
+com/application/app/databinding/RowListlabelBindingImpl.java
+ com.application.app.databinding.RowListlabelBindingImpl
+com/application/app/databinding/ActivityMensajeDonaciNBindingImpl.java
+ com.application.app.databinding.ActivityMensajeDonaciNBindingImpl
+com/application/app/databinding/ActivityAlimentosBinding.java
+ com.application.app.databinding.ActivityAlimentosBinding
+com/application/app/DataBindingTriggerClass.java
+ com.application.app.DataBindingTriggerClass
+com/application/app/databinding/ActivityVoluntariadoBindingImpl.java
+ com.application.app.databinding.ActivityVoluntariadoBindingImpl
+com/application/app/databinding/SpinnerItemBindingImpl.java
+ com.application.app.databinding.SpinnerItemBindingImpl
+com/application/app/databinding/ActivityStripeBinding.java
+ com.application.app.databinding.ActivityStripeBinding
+com/application/app/databinding/ActivityMenPrincipalBinding.java
+ com.application.app.databinding.ActivityMenPrincipalBinding
+com/application/app/databinding/ActivityIniciozeroBinding.java
+ com.application.app.databinding.ActivityIniciozeroBinding
+com/application/app/databinding/ActivityEmbutidosBindingImpl.java
+ com.application.app.databinding.ActivityEmbutidosBindingImpl
+com/application/app/databinding/FragmentArticuloBinding.java
+ com.application.app.databinding.FragmentArticuloBinding
+com/application/app/databinding/ActivityRecetasIntentoBindingImpl.java
+ com.application.app.databinding.ActivityRecetasIntentoBindingImpl
+com/application/app/databinding/ActivityHigieneYLimpiezaBindingImpl.java
+ com.application.app.databinding.ActivityHigieneYLimpiezaBindingImpl
+com/application/app/DataBinderMapperImpl.java
+ com.application.app.DataBinderMapperImpl
+ com.application.app.DataBinderMapperImpl$InnerBrLookup
+ com.application.app.DataBinderMapperImpl$InnerLayoutIdLookup
+com/application/app/databinding/ActivityEmbutidosBinding.java
+ com.application.app.databinding.ActivityEmbutidosBinding
+com/application/app/databinding/RowVoluntariadoBindingImpl.java
+ com.application.app.databinding.RowVoluntariadoBindingImpl
+com/application/app/databinding/ActivityAlimentosBindingImpl.java
+ com.application.app.databinding.ActivityAlimentosBindingImpl
+com/application/app/databinding/ActivityFormularioComunBinding.java
+ com.application.app.databinding.ActivityFormularioComunBinding
+com/application/app/databinding/RowVoluntariadoBinding.java
+ com.application.app.databinding.RowVoluntariadoBinding
+com/application/app/databinding/ActivityFormularioDonaciNBinding.java
+ com.application.app.databinding.ActivityFormularioDonaciNBinding
+com/application/app/databinding/ActivityRecetasFiltradasBindingImpl.java
+ com.application.app.databinding.ActivityRecetasFiltradasBindingImpl
+com/application/app/databinding/ActivityMenPrincipalBindingImpl.java
+ com.application.app.databinding.ActivityMenPrincipalBindingImpl
+com/application/app/databinding/ActivityStripeBindingImpl.java
+ com.application.app.databinding.ActivityStripeBindingImpl
+com/application/app/databinding/ActivityQhacemosBinding.java
+ com.application.app.databinding.ActivityQhacemosBinding
+com/application/app/databinding/RowNewRecetaBinding.java
+ com.application.app.databinding.RowNewRecetaBinding
+com/application/app/databinding/RowListrectanglefourteenBindingImpl.java
+ com.application.app.databinding.RowListrectanglefourteenBindingImpl
+com/application/app/databinding/ActivityFormularioDonaciNBindingImpl.java
+ com.application.app.databinding.ActivityFormularioDonaciNBindingImpl
+com/application/app/databinding/ActivityFoodDonationsBinding.java
+ com.application.app.databinding.ActivityFoodDonationsBinding
+com/application/app/databinding/ActivityMensajeDineroBindingImpl.java
+ com.application.app.databinding.ActivityMensajeDineroBindingImpl
+com/application/app/databinding/ActivityDineroBinding.java
+ com.application.app.databinding.ActivityDineroBinding
+com/application/app/databinding/ActivityIniciooneBindingImpl.java
+ com.application.app.databinding.ActivityIniciooneBindingImpl
+com/application/app/databinding/ActivityFoodDonationsBindingImpl.java
+ com.application.app.databinding.ActivityFoodDonationsBindingImpl
+com/application/app/databinding/RowListrectanglefourteenBinding.java
+ com.application.app.databinding.RowListrectanglefourteenBinding
+com/application/app/databinding/ActivityResumenHigieneYlimpiezaBindingImpl.java
+ com.application.app.databinding.ActivityResumenHigieneYlimpiezaBindingImpl
+com/application/app/databinding/FragmentVerRecetaBindingImpl.java
+ com.application.app.databinding.FragmentVerRecetaBindingImpl
+com/application/app/databinding/ActivityFormularioOtroAlimentoBinding.java
+ com.application.app.databinding.ActivityFormularioOtroAlimentoBinding
+com/application/app/databinding/ActivityFrutasYverdurasBinding.java
+ com.application.app.databinding.ActivityFrutasYverdurasBinding
+com/application/app/databinding/ActivityFormularioOtroAlimentoBindingImpl.java
+ com.application.app.databinding.ActivityFormularioOtroAlimentoBindingImpl
+com/application/app/databinding/ActivityRecetasFiltradasBinding.java
+ com.application.app.databinding.ActivityRecetasFiltradasBinding
+com/application/app/databinding/ActivitySelecciNAlimentosBindingImpl.java
+ com.application.app.databinding.ActivitySelecciNAlimentosBindingImpl
+com/application/app/databinding/ActivityIniciooneBinding.java
+ com.application.app.databinding.ActivityIniciooneBinding
+com/application/app/databinding/ActivityCargandoBinding.java
+ com.application.app.databinding.ActivityCargandoBinding
+com/application/app/databinding/ActivityDonacionesBinding.java
+ com.application.app.databinding.ActivityDonacionesBinding
+com/application/app/databinding/ActivityVerRecetasBinding.java
+ com.application.app.databinding.ActivityVerRecetasBinding
+com/application/app/databinding/ActivityInicioBinding.java
+ com.application.app.databinding.ActivityInicioBinding
+com/application/app/modules/recetas/ui/Recetita.java
+ com.application.app.modules.recetas.ui.Recetita
+com/application/app/databinding/ActivityMensajeDineroBinding.java
+ com.application.app.databinding.ActivityMensajeDineroBinding
+com/application/app/databinding/ActivityInicioBindingImpl.java
+ com.application.app.databinding.ActivityInicioBindingImpl
+com/application/app/databinding/ActivityCanastaBasicaBinding.java
+ com.application.app.databinding.ActivityCanastaBasicaBinding
+com/application/app/databinding/LayoutProgressDialogBinding.java
+ com.application.app.databinding.LayoutProgressDialogBinding
+com/application/app/databinding/ActivityVoluntariadoBinding.java
+ com.application.app.databinding.ActivityVoluntariadoBinding
+com/application/app/BuildConfig.java
+ com.application.app.BuildConfig
+com/application/app/databinding/RowListlabel1BindingImpl.java
+ com.application.app.databinding.RowListlabel1BindingImpl
+com/application/app/databinding/ActivityAbarrotesBinding.java
+ com.application.app.databinding.ActivityAbarrotesBinding
+com/application/app/databinding/ActivityResumenFoodDonationsBindingImpl.java
+ com.application.app.databinding.ActivityResumenFoodDonationsBindingImpl
+com/application/app/databinding/FragmentVerRecetaBinding.java
+ com.application.app.databinding.FragmentVerRecetaBinding
+com/application/app/databinding/FragmentArticuloBindingImpl.java
+ com.application.app.databinding.FragmentArticuloBindingImpl
+com/application/app/databinding/ActivityFrutasYverdurasBindingImpl.java
+ com.application.app.databinding.ActivityFrutasYverdurasBindingImpl
+com/application/app/databinding/ActivityHigieneYLimpiezaBinding.java
+ com.application.app.databinding.ActivityHigieneYLimpiezaBinding
+com/application/app/databinding/ActivityAbarrotesBindingImpl.java
+ com.application.app.databinding.ActivityAbarrotesBindingImpl
+com/application/app/databinding/LayoutProgressDialogBindingImpl.java
+ com.application.app.databinding.LayoutProgressDialogBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/application/app/databinding/ActivityMensajeDonaciNBinding.java
+ com.application.app.databinding.ActivityMensajeDonaciNBinding
+com/application/app/databinding/ActivityCanastaBasicaBindingImpl.java
+ com.application.app.databinding.ActivityCanastaBasicaBindingImpl
+com/application/app/Stripe.java
+ com.application.app.Stripe
+ com.application.app.Stripe$1
+ com.application.app.Stripe$10
+ com.application.app.Stripe$11
+ com.application.app.Stripe$12
+ com.application.app.Stripe$13
+ com.application.app.Stripe$2
+ com.application.app.Stripe$3
+ com.application.app.Stripe$4
+ com.application.app.Stripe$5
+ com.application.app.Stripe$6
+ com.application.app.Stripe$7
+ com.application.app.Stripe$8
+ com.application.app.Stripe$9
